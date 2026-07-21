@@ -210,8 +210,7 @@ Retail-Sales-Data-Agent/
 ├── README.md
 ├── SQL_Queries.sql
 ├── 2805002173_Retail Sales Data Agent Report.docx
-├── retail_sales_dataset.csv
-└── screenshots/
+└── reatil_sales_dataset.csv 
 
 ```
 
